@@ -4,7 +4,7 @@ import java.util.regex.Pattern;
 
 /**
  * This class handles the registration and login of a user.
- * @Aurthor Andile Ndlovu ST10452270
+ * @Author Andile Ndlovu ST10452270
  */
 public class Login {
 
